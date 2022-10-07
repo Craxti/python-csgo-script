@@ -25,7 +25,7 @@ Requires Python3 and pip (aswell as CSGO obviously)
 -Rank reveal in Competitive \
 -Auto-updating offsets \
 -Chams \
--Mouse and Keyboard support, you may find a list of the accepted mouse buttons [here](https://github.com/XanOpiat/Python-CSGO-Cheat/blob/main/Utils/Utilities.py#L58)
+-Mouse and Keyboard support, you may find a list of the accepted mouse buttons [here](https://github.com/Craxti/Python-CSGO-Cheat/blob/main/Utils/Utilities.py#L58)
 
 ## Getting Started:
 
